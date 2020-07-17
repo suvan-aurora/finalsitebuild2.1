@@ -1,0 +1,111 @@
+.container1
+{
+	
+	
+	color: white;
+}
+
+
+.text
+{
+	float: left;
+	font-size: 36px;
+	padding-top: 100px;
+}
+.img
+{
+	float: right;
+	
+	border:10px solid black;
+}
+
+p
+{
+	font-family: times new roman;
+	font-size: 25px;
+
+	
+}
+
+h1
+{
+	
+	font-family: times new roman;
+	font-size: 60px;
+}
+
+body
+{
+	background-color: cornflowerblue;
+	margin-bottom: 400px;
+}
+
+.container
+{
+	color:darkblue;
+}
+
+.page-header
+{
+	margin-top: 0;
+}
+.panel-body
+{
+	padding-top: 0;
+}
+
+h3
+{
+	font-family: times new roman;
+	font-size: 37px;
+	
+}
+
+p#2
+{
+	font-family: times new roman;
+}
+
+.featureImg
+{
+	width:600px;
+	float: center;
+	border:10px solid black;
+	
+	
+}
+h4
+{
+	font-size: 25px;
+	padding-right: 50px;
+	padding-left: 50px;
+	font-family: times new roman;
+}
+
+.h5
+{
+	font-size: 35px;
+	font-family: times new roman;
+	color: white;
+}
+
+h6
+{
+	font-size: 40px;
+	font-family:times new roman;
+
+}
+
+.text-my-own-color
+{
+	color: white;
+	font-family: times new roman;
+	font-size: 30px;
+}
+
+h7
+{
+	font-family: times new roman;
+	font-size: 20px;
+	font color: black;
+}
